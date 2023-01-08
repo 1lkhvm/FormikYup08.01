@@ -1,0 +1,167 @@
+.footer-container {
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+
+    .footer {
+
+        width: 70%;
+        height: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        .footer-1 {
+        
+            width: 100%;
+            height: 40px;
+
+            ul {
+                display: flex;
+                gap: 15px;
+
+                li {
+                    list-style: none;
+
+                    a {
+
+                        color: gray;
+                        font-size: 12px;
+
+                        text-decoration: none;
+
+                    }
+
+                    a:hover {
+                        text-decoration: underline;
+                    }
+
+
+                }
+            }
+        }
+
+
+
+        .footer-2 {
+            width: 100%;
+            height: 20px;
+
+            ul {
+                display: flex;
+                gap: 20px;
+
+                li {
+                    list-style: none;
+
+                    a {
+
+                        color: gray;
+                        font-size: 12px;
+
+                        text-decoration: none;
+
+                    }
+
+                    a:hover {
+                        text-decoration: underline;
+                    }
+
+
+                }
+            }
+        }
+
+        .footer-3 {
+            width: 100%;
+            height: 20px;
+
+            ul {
+                display: flex;
+                gap: 20px;
+
+                li {
+                    list-style: none;
+
+                    a {
+
+                        color: gray;
+                        font-size: 12px;
+
+                        text-decoration: none;
+
+                    }
+
+                    a:hover {
+                        text-decoration: underline;
+                    }
+
+
+                }
+            }
+
+        }
+
+        .footer-4 {
+            width: 100%;
+            height: 20px;
+
+            ul {
+                display: flex;
+                gap: 20px;
+
+                li {
+                    list-style: none;
+
+                    a {
+
+                        color: gray;
+                        font-size: 12px;
+
+                        text-decoration: none;
+
+                    }
+
+                    a:hover {
+                        text-decoration: underline;
+                    }
+
+
+                }
+            }
+
+        }
+
+        .metatag {
+            width: 100%;
+            margin-top: 50px;
+            height: 20px;
+
+            ul {
+                display: flex;
+                gap: 20px;
+
+                li {
+                    list-style: none;
+
+                    a {
+
+                        color: gray;
+                        font-size: 12px;
+
+                        text-decoration: none;
+
+                    }
+
+                    a:hover {
+                        text-decoration: underline;
+                    }
+
+
+                }
+            }
+
+        }
+    }
+}
